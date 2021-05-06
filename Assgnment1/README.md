@@ -1,6 +1,6 @@
 ### Team Details :
-Anant Jain - 2019MCS2557
 Meraj Ahmed - 2019MCS2565
+Anant Jain - 2019MCS2557
 Priyadarshi Hitesh - 2019MCS2569
 
 ### How to execute :
